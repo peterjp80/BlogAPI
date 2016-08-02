@@ -1,0 +1,6 @@
+{ 
+    "projects": [ 
+        "BlogAPI", 
+        "BlogAPI.Tests" 
+    ] 
+}
